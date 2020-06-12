@@ -1,0 +1,24 @@
+{
+  "name": "image-filters",
+  "version": "1.0.0",
+  "description": "This is a directory for image filter",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "lite":"lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saak2000/Image-Filters.git"
+  },
+  "author": "Saakshi Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saak2000/Image-Filters/issues"
+  },
+  "homepage": "https://github.com/saak2000/Image-Filters#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
